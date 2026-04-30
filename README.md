@@ -51,7 +51,7 @@ Sensei is a custom SVG anime-style character that reacts to the conversation:
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/cryptosensei
+git clone https://github.com/arcode13/CryptoSensei
 cd cryptosensei
 npm install
 ```

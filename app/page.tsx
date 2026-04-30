@@ -202,7 +202,7 @@ export default function Home() {
       <footer className="border-t border-white/5 py-3 px-6 flex items-center justify-between text-[11px] text-white/20">
         <span>CryptoSensei © 2026</span>
         <a
-          href="https://github.com"
+          href="https://github.com/arcode13/CryptoSensei"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-1 hover:text-gold-400/60 transition-colors"
