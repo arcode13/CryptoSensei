@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="32" fill="#0a0a0a"/>
+  <!-- Gold ring -->
+  <circle cx="32" cy="32" r="30" stroke="#f59e0b" stroke-width="2.5" fill="none"/>
+
+  <!-- Body / robe -->
+  <path d="M 14 62 Q 12 68 8 70 L 56 70 Q 52 68 50 62 Q 44 52 38 50 L 26 50 Q 20 52 14 62 Z" fill="#1a1a2e"/>
+  <!-- Chest badge (ASCII-safe, no unicode text) -->
+  <circle cx="32" cy="61" r="3" fill="#f59e0b"/>
+  <rect x="31.4" y="57.6" width="1.2" height="6.8" fill="#0a0a0a"/>
+
+  <!-- Neck -->
+  <rect x="28" y="46" width="8" height="6" rx="3" fill="#e8b98a"/>
+
+  <!-- Head -->
+  <ellipse cx="32" cy="32" rx="17" ry="18" fill="#f0c27f"/>
+
+  <!-- Hair -->
+  <ellipse cx="32" cy="17" rx="17" ry="7" fill="#1a1a1a"/>
+  <path d="M 16 20 Q 13 14 17 10 Q 22 6 27 5 L 37 5 Q 42 6 47 10 Q 51 14 48 20" fill="#1a1a1a"/>
+  <!-- Hair spikes -->
+  <path d="M 21 8 Q 19 2 24 4 Q 21 7 21 8 Z" fill="#1a1a1a"/>
+  <path d="M 29 5 Q 28 0 33 2 Q 30 5 29 5 Z" fill="#1a1a1a"/>
+  <path d="M 36 6 Q 36 1 40 3 Q 38 6 36 6 Z" fill="#1a1a1a"/>
+
+  <!-- Ears -->
+  <ellipse cx="15" cy="33" rx="3" ry="4" fill="#e8b98a"/>
+  <ellipse cx="49" cy="33" rx="3" ry="4" fill="#e8b98a"/>
+
+  <!-- Glasses -->
+  <rect x="17" y="28" width="11" height="8" rx="3.5" fill="rgba(245,158,11,0.12)" stroke="#d97706" stroke-width="1.5"/>
+  <rect x="36" y="28" width="11" height="8" rx="3.5" fill="rgba(245,158,11,0.12)" stroke="#d97706" stroke-width="1.5"/>
+  <line x1="28" y1="32" x2="36" y2="32" stroke="#d97706" stroke-width="1.5"/>
+
+  <!-- Eyes -->
+  <ellipse cx="22.5" cy="32" rx="2.5" ry="2.5" fill="#f59e0b"/>
+  <ellipse cx="21.8" cy="31.3" rx="0.8" ry="0.8" fill="#0a0a0a"/>
+  <ellipse cx="41.5" cy="32" rx="2.5" ry="2.5" fill="#f59e0b"/>
+  <ellipse cx="40.8" cy="31.3" rx="0.8" ry="0.8" fill="#0a0a0a"/>
+
+  <!-- Smile -->
+  <path d="M 26 40 Q 32 44 38 40" stroke="#d97706" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+</svg>

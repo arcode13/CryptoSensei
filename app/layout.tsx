@@ -19,10 +19,15 @@ export const metadata: Metadata = {
     "Web3 guide",
     "investment education",
   ],
+  icons: {
+    icon: [{ url: "/favicon.svg", type: "image/svg+xml" }],
+    apple: "/logo.png",
+  },
   openGraph: {
     title: "CryptoSensei - AI Crypto Education Agent",
     description: "Your AI-powered crypto education companion. Learn Web3 with Sensei.",
     type: "website",
+    images: [{ url: "/logo.png", width: 1024, height: 1024, alt: "CryptoSensei Logo" }],
   },
 };
 
